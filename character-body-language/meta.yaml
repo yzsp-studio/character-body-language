@@ -1,0 +1,8 @@
+display-name-zh: 身体语言
+version: 1.0.0
+tag-en: "Visual Production / Prompt Engineering"
+tag-cn: "视觉创作 / 提示词工程"
+summary-en: "Enhance video prompts with precise character posture, proxemics, gait, and micro-movements."
+summary-cn: "角色身体语言提示词增强"
+desc-en: "A prompt-engineering skill for improving AI video character performance through non-verbal behavior. It converts relationship dynamics, emotional states, spatial distance, posture, gait, and unconscious micro-movements into concrete model-friendly descriptions, helping characters feel less robotic and multi-character scenes read with clearer tension and intimacy."
+desc-cn: "用于增强 AI 视频角色表演的提示词工程 Skill。它把人物关系、情绪状态、站位距离、体态、步态和无意识微动作转化为具体可执行的动作描述，改善角色站着不动、多人场景关系不清、走路像滑行等问题，让角色更自然、更有戏剧张力。"
